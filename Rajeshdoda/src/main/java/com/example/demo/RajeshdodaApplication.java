@@ -9,6 +9,8 @@ public class RajeshdodaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RajeshdodaApplication.class, args);
 		//syso
+		//2nd time
 	}
+	
 
 }
